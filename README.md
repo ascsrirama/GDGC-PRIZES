@@ -14,6 +14,8 @@
 
 ---
 
+> **Note:** This is a project made for the GDGC club/event, not an official university project or one endorsed by the university. University of Auckland is placed due to GDGC's campus identity — it is the identifier of the club name only.
+
 These PCBs are non-functional electrically and are purely silkscreen art. The original intention was a small, user-programmable LED matrix, but with limited time, I put the club's allocated budget toward printing tokens instead — a thank-you keepsake for judges attending the event, plus three additional boards for 1st-, 2nd-, and 3rd-place winners, each paired with a trophy. The PCBs slot neatly into the trophy base, making a nice set piece.
 
 ## ✨ Features
